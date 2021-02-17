@@ -13,9 +13,10 @@
     ora "^3.0.0"
     postcss "^6.0.22"
 
-"@algolia/ui-library@^2.31.0":
-  version "2.31.0"
-  resolved "https://registry.yarnpkg.com/@algolia/ui-library/-/ui-library-2.31.0.tgz#46ce21f3958d648f5acba7f01a7346f08eca7661"
+"@algolia/ui-library@^2.94.0":
+  version "2.94.0"
+  resolved "https://registry.yarnpkg.com/@algolia/ui-library/-/ui-library-2.94.0.tgz#de5214799023af92ff4e182dc490dcec4bc06634"
+  integrity sha512-MG+AxktXGXs73K30othFJ5BVqkafM4eddiEWoCSqdbVyr3s+SoYX89bIwOAxRJD2amzyO4x4SyV7c+4L8ByHog==
   dependencies:
     "@algolia/fragments.js" "^2.0.0-beta.12"
     "@emotion/babel-preset-css-prop" "^10.0.14"
@@ -7750,6 +7751,13 @@ react-error-overlay@^6.0.7:
 react-feather@^2.0.3:
   version "2.0.8"
   resolved "https://registry.yarnpkg.com/react-feather/-/react-feather-2.0.8.tgz#455baf1470f756a57e2ad6c72545444ce5925781"
+  dependencies:
+    prop-types "^15.7.2"
+
+react-feather@^2.0.9:
+  version "2.0.9"
+  resolved "https://registry.yarnpkg.com/react-feather/-/react-feather-2.0.9.tgz#6e42072130d2fa9a09d4476b0e61b0ed17814480"
+  integrity sha512-yMfCGRkZdXwIs23Zw/zIWCJO3m3tlaUvtHiXlW+3FH7cIT6fiK1iJ7RJWugXq7Fso8ZaQyUm92/GOOHXvkiVUw==
   dependencies:
     prop-types "^15.7.2"
 
