@@ -17,6 +17,8 @@ You will be provided with a mockup which you will need to re-implement using our
 - All images can be taken from https://placeholder.com/
 - Bonus points if you add your personal touch to the page (it can be CSS animations, custom components, new interactions... Just be creative!)
 
+Once you're done, please send a zip file with all the source code to visibility-squad@algolia.com.
+
 Good luck,
 
 The Visibility team
