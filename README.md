@@ -1,4 +1,4 @@
-## Visibility internship pair-programming test
+## Visibility test
 
 ### Pre-requisites
 
