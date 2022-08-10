@@ -17,7 +17,7 @@ You will find below some details about the test:
 - One of the sections should have the ability to switch themes when clicking on the button (see mockups for more details).
 - Some components should make use of icons. We suggest that you use the react-feather library for that.
 - All images can be taken from https://placeholder.com/
-- The code should be written using TypeScript, as much as possible.
+- **The code should be written using TypeScript**, as much as possible.
 - **Bonus points** if you add your personal touch to the page (it can be CSS animations, custom components, new interactions... Just be creative!)
 
 Once you're done, please send a zip file with all the source code to visibility-squad@algolia.com.
