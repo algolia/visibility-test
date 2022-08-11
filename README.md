@@ -4,9 +4,10 @@
 
 Below is the list of all the elements that will be needed prior to the test:
 
-1. Have access to `npm` or `yarn` on your computer
-2. Being able to clone or download this repository on your computer
-3. Having visited https://algolia-ui-library.netlify.app/ in order to understand how our components work
+1. Have access to `yarn` on your computer (**important**: make sure that you are not using `npm`)
+2. Use the latest version of Node
+3. Being able to clone or download this repository on your computer
+4. Having visited https://algolia-ui-library.netlify.app/ in order to understand how our components work
 
 ### The test
 
