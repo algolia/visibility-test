@@ -21,7 +21,7 @@ You will find below some details about the test:
 - All images can be taken from https://placeholder.com/
 - **Bonus points** if you add your personal touch to the page (it can be CSS animations, custom components, new interactions... Just be creative!)
 
-Once you're done, please send a zip file with all the source code to visibility-squad@algolia.com.
+Once you're done, please upload the assignment to a GitHub repository and send the link to visibility-squad@algolia.com so that the team can review.
 
 Good luck,
 
